@@ -4,6 +4,8 @@ A free 36-page special edition from **EL Publishing** for every teacher, grades 
 
 **Read it online:** https://radan55.github.io/stormdecemberspecialedition/
 
+**Interactive edition:** https://radan55.github.io/stormdecemberspecialedition/interactive.html
+
 ## What's inside
 
 | Pages | Section |
@@ -26,6 +28,7 @@ A free 36-page special edition from **EL Publishing** for every teacher, grades 
 | File | What it is |
 |---|---|
 | `index.html` | The web page: contents, page browser and downloads |
+| `interactive.html` | The interactive edition: world tour, countdown doors, coloring, matching game and self-checking practice |
 | `el-special-2026-12-world.pdf` | The full edition, 36 pages |
 | `el-special-2026-12-world-coloring.pdf` | Coloring pages (13–16) |
 | `el-special-2026-12-world-elementary.pdf` | Elementary practice (17–18) |
